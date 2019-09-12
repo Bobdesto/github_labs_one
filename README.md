@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab one
 
 This is a README file with me learning mark down languages. This is useful for my lab one.
@@ -7,3 +8,6 @@ This is a README file with me learning mark down languages. This is useful for m
 * I have learned how to configure git me in a empty repository, I also learned how to creat a repository, clone it and practiced using git pull and git push commands.
 
 Instructorc is a collaborator in my repository.
+=======
+# github_labs_one
+>>>>>>> 8b56de51e4e575fa2e4262bfe95792bc1374bc9f
